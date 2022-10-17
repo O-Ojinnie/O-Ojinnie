@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 </div>
 
 ## 💬 Ask me about
+
+<a href="https://github.com/O-Ojinnie" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
 [![GitHub Badge](http://img.shields.io/badge/-GITHUB-#000000?style=flat-square&logo=github&link=https://github.com/O-Ojinnie/)](https://github.com/O-Ojinnie)
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongjin.dev@gmail.com)
