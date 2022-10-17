@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.notion.so/Jinnie-s-Home-6e510fc375cf49cbb0ca0901de963e72" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&target=_blank&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
+ 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dongjin.dev@gmail.com)](mailto:dongjin.dev@gmail.com)
  
  [![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:dongjin.dev@gmail.com)](mailto:dongjin.dev@gmail.com)
