@@ -36,4 +36,4 @@ Here are some ideas to get you started:
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongjin.dev@gmail.com)
 
-[![Notion Badge](http://img.shields.io/badge/-NOTION-#000000?style=flat-square&logo=Notion&link=https://www.notion.so/Jinnie-s-Home)
+[![Notion Badge](http://img.shields.io/badge/-NOTION-#000000?style=flat-square&logo=Notion&link=[https://www.notion.so/Jinnie-s-Home](https://www.notion.so/Jinnie-s-Home-6e510fc375cf49cbb0ca0901de963e72))
