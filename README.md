@@ -33,15 +33,16 @@ Here are some ideas to get you started:
 
 ## 💬 Ask me about
 
-<img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/O-Ojinnie"/>
+<a href="https://github.com/O-Ojinnie" target="_blank">
+ <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+ </a>
  
 
-<a href="https://www.notion.so/Jinnie-s-Home-6e510fc375cf49cbb0ca0901de963e72" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&target=_blank&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
+<a href="https://www.notion.so/Jinnie-s-Home-6e510fc375cf49cbb0ca0901de963e72" target="_blank">
+ <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+ </a>
  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dongjin.dev@gmail.com)](mailto:dongjin.dev@gmail.com)
- 
- [![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:dongjin.dev@gmail.com)](mailto:dongjin.dev@gmail.com)
- 
+ <a href="mailto:dongjin.dev@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+ </a>
 </div>
