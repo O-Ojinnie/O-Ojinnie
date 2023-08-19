@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,1,5,1,30&height=150&animation=fadeIn&section=footer&text=Hi%20There%20👋&fontSize=60&fontAlignY=75&)
 
 <div align=center>
-
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-Ojinnie&count_private=true&show_icons=true&theme=tokyonight)
  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-Ojinnie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/O-Ojinnie/github-readme-stats)
 
  ## Most Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Ojinnie&count_private=true&layout=compact&theme=tokyonight&count_private=true)
