@@ -2,7 +2,7 @@
 
 <div align=center>
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-Ojinnie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/O-Ojinnie/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-Ojinnie&count_private=true&show_icons=true&theme=tokyonight)]
 
  ## Most Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Ojinnie&count_private=true&layout=compact&theme=tokyonight&count_private=true)
